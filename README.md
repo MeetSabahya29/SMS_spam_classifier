@@ -54,7 +54,7 @@ SMS_Spam_Classifier/
 
 | File | Description |
 |--------|-------------|
-| app2.py | Streamlit Web Application |
+| app.py | Streamlit Web Application |
 | requirements.txt | Required Python Libraries |
 | SMS_Spam_Classifier.ipynb | Model Training Notebook |
 | spam_model.pkl | Trained Logistic Regression Model |
@@ -117,7 +117,7 @@ pip install -r requirements.txt
 ### Run Streamlit App
 
 ```bash
-streamlit run app2.py
+streamlit run app.py
 ```
 
 ---
