@@ -43,7 +43,7 @@ A Logistic Regression model combined with TF-IDF Vectorization is used to achiev
 SMS_Spam_Classifier/
 
 │
-├── app2.py
+├── app.py
 ├── requirements.txt
 ├── SMS_Spam_Classifier.ipynb
 ├── spam_model.pkl
